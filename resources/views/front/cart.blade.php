@@ -26,7 +26,7 @@
                     <div class="row">
                     <div class="col-4">
                         <!-- {{$cart->product_photo}} -->
-                        <img class="card-img-top" src="https://dummyimage.com/450x300/dee2e6/6c757d.jpg" alt="{{$cart->product_name}}" />
+                        <img class="card-img-top" src="{{$cart->product_photo}}" alt="{{$cart->product_name}}" />
                     </div>
                     <div class="col-8">
                         <h4>{{$cart->product_name}}</h4>

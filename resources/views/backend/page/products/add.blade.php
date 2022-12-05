@@ -10,7 +10,7 @@
                 <div class="card-body">
                     <div class="form-group row mb-3">
                         <label class="col-md-3 mt-2">Product Code</label>
-                        <input type="text" name="product_code" class="form-control bg-dark text-light border-0 small col-md-8" required readonly value="{{"PROD-".time()}}">
+                        <input type="text" name="product_code" class="form-control bg-dark text-light border-0 small col-md-8" required readonly value="{{"VAN-".time()}}">
                     </div>
                     <div class="form-group row mb-3">
                         <label class="col-md-3 mt-2">Product Name</label>

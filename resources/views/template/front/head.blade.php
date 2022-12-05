@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>USM Shop</title>
+    <title>49 Drug</title>
 
     <!---Favicon--->
     <link rel="icon" type="image/x-icon" href="{{asset('assets/favicon.ico')}}">
